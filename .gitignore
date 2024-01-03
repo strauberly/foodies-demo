@@ -1,0 +1,9 @@
+#IGNORE THE FOLLOWING FILES
+
+node_modules
+.next
+.env
+.client.js
+.properties
+.config
+create-repo-script.sh
